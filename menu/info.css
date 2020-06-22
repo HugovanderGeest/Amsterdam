@@ -69,6 +69,7 @@
   float: center;
   font-size: 20px;
   text-align: center;
+  margin: 30px;
 }
 
 .x1 {
@@ -98,4 +99,8 @@
 .wie:hover,
 .uitleg:hover {
   background-color: #ff2b38;
+}
+
+a {
+  text-decoration: none;
 }

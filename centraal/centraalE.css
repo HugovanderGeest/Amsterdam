@@ -124,3 +124,7 @@
 .uitleg:hover {
   background-color: #ff2b38;
 }
+
+a {
+  text-decoration: none;
+}
